@@ -47,7 +47,7 @@ int main(void)
         }
         else
         {
-            printf("Fuck off/n");
+            printf("Try Again/n");
             i = i + 2;
         }
 
